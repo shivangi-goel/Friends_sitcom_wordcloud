@@ -1,1 +1,2 @@
 # Friends_sitcom_wordcloud
+Created a NLP Project for popular T.V. show F.R.I.E.N.D.S, select the file mentioned in the dataset section, select a character name. A wordcloud of that character will be printed along with the 10 frequent words used by the characters along with their frequencies. After that type a random line and the character who has spoken it would be printed using 2 clasification models namely, Naive Bayes, Logistic Regression and Decision Tree.
